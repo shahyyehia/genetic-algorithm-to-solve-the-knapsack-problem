@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1636480012 source:e:\nada\codeforces\softcomputingassignment1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<bits/stdc++.h>
+
+1636506901 source:c:\users\hossam mohamed\desktop\softcomputingassignment1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<bits/stdc++.h>
+	<stdlib.h>
+	<ctime>
+	<cstdlib>
+
